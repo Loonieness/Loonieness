@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou estudando para ser um desenvolvedor fullstack
 - 🌱 Estou aprendendo JavaScript, React e Nodejs, reforçando meus conhecimentos em HTML5 e CSS3
-- 😄 Pronomes: Ele/Dele
+- 😄 Ele/Dele
 
   ##
 <div align="center">
